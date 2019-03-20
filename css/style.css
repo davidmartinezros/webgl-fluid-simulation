@@ -1,0 +1,17 @@
+body {
+    font-family:Helvatica, sans-serif;
+    background:url(https://wallpaperplay.com/walls/full/9/2/3/181292.jpg);
+    background-repeat: no-repeat; 
+    color:rgb(200, 200, 200);
+}
+
+#wrapper{
+	margin:0 auto;
+    width:100%;
+}
+
+h3 {
+    background-color: rgba(201, 76, 76, 0.3);
+    border: 1px solid rgb(200, 200, 200);
+    padding: 10px;
+}
